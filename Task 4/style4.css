@@ -1,0 +1,10 @@
+html, body {
+width: 100%;
+font-size: 100%;
+}
+div{
+background-color: blue;
+color: white;
+max-width: 600px;
+margin: 0 auto;
+}
