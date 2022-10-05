@@ -1,0 +1,10 @@
+html, body {
+height: 100%;
+width: 100%;
+}
+div{
+background-color: blue;
+color: white;
+width: 600px;
+margin: 0 auto;
+}
